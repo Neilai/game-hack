@@ -1,12 +1,12 @@
-### game-hack
+##game-hack
 
 源码包括三部分：
 
 - 外挂实例：
 
-​      自瞄、透视外挂
+​      自瞄、透视功能
 
-​      [飞天飞天遁地等变态功能源码在另一仓库]:(https://github.com/Neilai/CS-plugin)
+[ 飞天遁地等变态功能在另一仓库](https://github.com/Neilai/CS-plugin)
 
 - 外挂技术
 
